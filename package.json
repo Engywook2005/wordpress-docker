@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-docker",
+  "version": "1.0.0",
+  "description": "Builds WordPress primarily for local dev.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Greg Thorson",
+  "license": "ISC"
+}

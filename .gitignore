@@ -1,0 +1,11 @@
+.idea
+node-modules
+db_data
+/wordpress/*
+!/wordpress/plugins/
+/wordpress/plugins/*
+!/wordpress/plugins/10up
+
+!/wordpress/themes/
+/wordpress/themes/*
+!/wordpress/themes/10up
